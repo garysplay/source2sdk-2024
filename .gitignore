@@ -1,0 +1,7 @@
+*.pdb
+*.lik
+*.obj
+src/*.exe
+[D]ebug/*.*
+[R]elease/*.*
+src/.vs/*
